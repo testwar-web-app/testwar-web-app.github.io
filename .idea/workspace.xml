@@ -19,14 +19,30 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eceada3a-0d9f-4e65-9a7f-b75d9787b3b7" name="Default Changelist" comment="" />
+    <list default="true" id="eceada3a-0d9f-4e65-9a7f-b75d9787b3b7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../testwar-web-app.github.io-main/.idea/Emprendimiento-Grupo-5.github.io.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testwar-web-app.github.io-main/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testwar-web-app.github.io-main/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testwar-web-app.github.io-main/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testwar-web-app.github.io-main/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testwar-web-app.github.io-main/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testwar-web-app.github.io-main/js/geo_questions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testwar-web-app.github.io-main/js/lit_questions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testwar-web-app.github.io-main/js/math_questions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testwar-web-app.github.io-main/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testwar-web-app.github.io-main/logo_testwar_preview_rev_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testwar-web-app.github.io-main/marker.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testwar-web-app.github.io-main/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1joTG5Zxbu8irwQr2dGRBgXFuoj" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -37,7 +53,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -80,6 +96,7 @@
       <workItem from="1604933301311" duration="192000" />
       <workItem from="1604959231959" duration="34000" />
       <workItem from="1606777471667" duration="18339000" />
+      <workItem from="1606797049223" duration="1215000" />
     </task>
     <servers />
   </component>
